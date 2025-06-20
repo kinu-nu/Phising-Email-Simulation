@@ -1,0 +1,4 @@
+[2025-06-11 20:27:54] Username: ibnu@gmail.com | Password: ibnu123
+[2025-06-11 20:40:57] IP: 127.0.0.1 | Username: tess@gmail.com | Password: tess | User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+[2025-06-13 17:57:14] IP: 127.0.0.1 | Username: 081222960000 | Password: contoh | User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+[2025-06-13 18:31:12] IP: 127.0.0.1 | Username: ibnuuas@gmail.com | Password: keamanankomputer | User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
